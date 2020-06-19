@@ -1,0 +1,14 @@
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\BBC.UITests.deps.json
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\BBC.UITests.runtimeconfig.json
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\BBC.UITests.runtimeconfig.dev.json
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\BBC.UITests.dll
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\bin\Debug\netcoreapp2.1\BBC.UITests.pdb
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\obj\Debug\netcoreapp2.1\BBC.UITests.csproj.CoreCompileInputs.cache
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\obj\Debug\netcoreapp2.1\BBC.UITests.AssemblyInfoInputs.cache
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\obj\Debug\netcoreapp2.1\BBC.UITests.AssemblyInfo.cs
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\obj\Debug\netcoreapp2.1\BBC.UITests.dll
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\obj\Debug\netcoreapp2.1\BBC.UITests.pdb
+C:\Users\naira\source\repos\BBC_UITests_POC\AMLTest\BBC.UITests\obj\Debug\netcoreapp2.1\BBC.UITests.csprojAssemblyReference.cache
